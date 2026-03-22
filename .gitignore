@@ -1,0 +1,27 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.env.local
+*.env
+
+# Virtual environment
+venv/
+.venv/
+
+# HuggingFace cache
+hf_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+.dockerignore
+
+# OS
+.DS_Store
+Thumbs.db
